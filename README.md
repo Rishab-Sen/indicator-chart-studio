@@ -1,73 +1,84 @@
-# Welcome to your Lovable project
+# Indicator Chart Studio
 
-## Project info
+A professional trading chart application built with React, TypeScript, and Vite. This project provides an interactive charting solution with technical analysis capabilities for traders and financial analysts.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## ✨ Features
 
-## How can I edit this code?
+- 📊 Interactive candlestick and line charts
+- 📈 50+ built-in technical indicators
+- ⚡ Real-time data streaming
+- 🌓 Dark/Light theme support
+- 📱 Fully responsive design
+- 🔍 Zoom and pan functionality
+- 📝 Drawing tools for technical analysis
 
-There are several ways of editing your application.
+## 🚀 Getting Started
 
-**Use Lovable**
+### Prerequisites
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+- Node.js (v18 or later)
+- npm (v9 or later) or yarn
 
-Changes made via Lovable will be committed automatically to this repo.
+### Installation
 
-**Use your preferred IDE**
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/indicator-chart-studio.git
+   cd indicator-chart-studio
+   ```
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+2. Install dependencies:
+   ```bash
+   npm install
+   # or
+   yarn
+   ```
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+3. Start the development server:
+   ```bash
+   npm run dev
+   # or
+   yarn dev
+   ```
 
-Follow these steps:
+4. Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🏗️ Building for Production
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+To create a production build:
 
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
+```bash
+npm run build
 ```
 
-**Edit a file directly in GitHub**
+The production-ready files will be generated in the `dist/` directory.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 🛠️ Technologies Used
 
-**Use GitHub Codespaces**
+- ⚡ Vite - Next Generation Frontend Tooling
+- 🟦 TypeScript - Type-Safe JavaScript
+- ⚛️ React - A JavaScript library for building user interfaces
+- 🎨 shadcn/ui - Beautifully designed components
+- 🎨 Tailwind CSS - A utility-first CSS framework
+- 📊 Lightweight Charts - Financial charts library
+- 📦 React Hook Form - Performant, flexible forms with easy-to-use validation
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## 🤝 Contributing
 
-## What technologies are used for this project?
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-This project is built with:
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## 📄 License
 
-## How can I deploy this project?
+Distributed under the MIT License. See `LICENSE` for more information.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+## 📧 Contact
 
-## Can I connect a custom domain to my Lovable project?
+Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
 
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Project Link: [https://github.com/your-username/indicator-chart-studio](https://github.com/your-username/indicator-chart-studio)
