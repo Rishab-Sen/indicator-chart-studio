@@ -76,9 +76,3 @@ Contributions are what make the open source community such an amazing place to l
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-## 📧 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/your-username/indicator-chart-studio](https://github.com/your-username/indicator-chart-studio)
